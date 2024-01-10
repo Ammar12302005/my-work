@@ -1,0 +1,53 @@
+.container{
+    display: flex;
+
+}
+
+.box{
+flex: 1;
+padding-top: 30px;
+padding-bottom:30px  ;
+padding-left:4px ;
+padding-right:4px ;
+
+
+border-top:2px solid black;
+border-bottom:2px solid black ;
+border-left:2px solid black ;
+border-right: 2px solid black;
+margin-top: 150px;
+margin-left: 20px;
+margin-right: 20px;
+background-color: rgba(4, 0, 255, 0.11);
+border-radius: 20px;
+
+
+
+
+
+
+
+}
+
+.hadings{
+    text-align: center;
+}
+
+.hh{
+text-align: center;
+margin-top: 200px;
+
+
+}
+.styled-button{
+margin-left: 150px;
+margin-right: 150px;
+margin-top:50px ;
+margin-bottom:20px ;
+border-radius: 10px;
+width: 200px;
+height: 30px;
+background-color: lightskyblue;
+
+
+}
